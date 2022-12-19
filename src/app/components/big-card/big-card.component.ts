@@ -23,13 +23,14 @@ constructor(
 ){ }
 
 ngOnInit(): void {
+  this.setValuesToComponent("0")
 }
 setValuesToComponent(id:string) {
 const result = dataFake.filter(
   article => article.id == id)[0]
 
   this.cardTitle = result.title
-  this.cardDescription = result.description
+  this.cardDescription = result.subtitle
   this.photoCover = result.photoCover
 
 }
