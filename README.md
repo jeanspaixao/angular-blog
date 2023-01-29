@@ -1,3 +1,38 @@
+Esse projeto é parte do Bootcamp WP Cloud Full Stack da DIO.
+
+Ele tem como objetivo a criação de um blog a partir de componentes usando Angular.
+
+
+Primeiro foi preciso encontar um layout de referência para o blog. No site Dribbble foi possível visualizar muitos sites inspiradores. Foi escolhido como referência esse aqui: https://dribbble.com/shots/18089191-Blog-Layout
+
+
+No meu desenvolvimento, optei por falar de matemática, que é uma disciplina que gosto muito.
+
+Fiz os compontes dos grandes cartões (big cards), os componentes dos pequenos cartões (small cards), a personalização a partir do clique em um cartão, abrindo uma nova página.
+
+
+Fiz o CSS de cada componente, para que todos tivessem um estilo próprio.
+
+
+Fiz o HTML de cada componente para definí-lo.
+
+
+Criei os conteúdos dos cartões com base em reportagens sobre a matemática.
+
+
+Chamei de Matemágica o meu blog.
+
+
+Conectei todos os componentes com a estrutura de rotas da página.
+
+
+Por fim publiquei no Github 
+
+
+Abaixo observações nativas do Angular para a execução do blog
+
+
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
